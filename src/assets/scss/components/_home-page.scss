@@ -1,0 +1,58 @@
+/*===================================================================
+homepage
+===================================================================*/
+.homepage-hero {
+    background: url('../../assets/img/cover/cover-home.jpg') center center;
+    background-size: cover;
+    height: 40rem;
+    overflow: hidden;
+    @include breakpoint(small only) {
+            height: 27rem;
+    }
+    @include breakpoint(xxlarge) {
+            height: 60rem;
+    }
+    h1 {
+        text-transform: none;
+        font-size: 4rem;
+        color: $white;
+        font-weight: 500;
+        line-height: 4.8rem;
+        text-align: center;
+        margin-top: 4rem;
+        @include breakpoint(small only) {
+            font-size: 2rem;
+            line-height: 3rem;
+            margin-top: 2rem;
+            padding: 0rem 0.5rem;
+        }
+        @include breakpoint(small only) {
+            font-size: 2rem;
+            line-height: 3rem;
+            margin-top: 2rem;
+        }
+    }
+}
+
+ //for cover images
+.text-highlight {
+    background-color: rgba($black, 0.25);
+    color: $primary-color;
+    margin-top: 1rem;
+}
+
+.sottobottone p {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.4rem;
+}
+
+
+.orari-schedule {
+    white-space: nowrap;
+}
+.orari-schedule li span {
+    display: inline-block;
+    width: 5.625rem;
+    margin-right: 1.25rem;
+}

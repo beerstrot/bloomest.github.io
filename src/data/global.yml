@@ -1,0 +1,892 @@
+menu-per-stuzzicare:
+  -
+    item-image-16-9: assets/img/prod/BocconcinidiPollo_rettangolare.jpg
+    item-name: Bocconcini di Pollo
+    item-description: Bocconcini di petto di pollo. Serviti con salsa piccante fatta in casa (10 pezzi).
+    item-allergeni: Glutine, Uova, Latte
+    item-price: 6,5
+    class-allergeni:
+    class-price:
+    alt-image: Bocconcini di Pollo
+  -
+    item-image-16-9: assets/img/prod/OliveallAscolana_rettangolare.jpg
+    item-name: Olive all'Ascolana
+    item-description: Olive all'Ascolana prodotte artigianalmente (8 pezzi).
+    item-allergeni: Glutine, Uova, Latte, Sedano
+    item-price: 5,9
+    class-allergeni:
+    class-price:
+    alt-image: Olive all'Ascolana
+  -
+    item-image-16-9: assets/img/prod/Falafel_rettangolare.jpg
+    item-name: Falafel
+    item-description: Falafel di ceci, mais, cipolle e zucchine. Serviti con salsa tzatziki fatta in casa (8 pezzi).
+    item-allergeni: Glutine, Sedano, Senape
+    item-price: 5,9
+    class-allergeni:
+    class-price:
+    alt-image: Falafel
+  -
+    item-image-16-9: assets/img/prod/TriangolidiVerdure_rettangolare.jpg
+    item-name: Triangoli di Verdure
+    item-description: Carote, peperoni, piselli, mais e cipolle avvolte da una croccante panatura dorata. Serviti con salsa aioli (6 pezzi).
+    item-allergeni: Glutine, Sedano, Senape
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Triangoli di Verdure
+  -
+    item-image-16-9: assets/img/prod/CipolleRosseinTempura_rettangolare.jpg
+    item-name: Cipolle Rosse
+    item-description: Cipolle rosse in tempura.
+    item-allergeni: Glutine, Crostacei, Latte 
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Cipolle Rosse
+  -
+    item-image-16-9: assets/img/prod/PeperonciniPiccanti_rettangolare.jpg
+    item-name: Peperoncini Piccanti
+    item-description: Peperoncini piccanti ripieni di robiola e avvolti in pancetta. Serviti con pane e coleslaw.
+    item-allergeni: Latte, Anidride solforosa e solfiti
+    item-price: 6,5
+    class-allergeni:
+    class-price:
+    alt-image: Peperoncini Piccanti
+  -
+    item-image-16-9: assets/img/prod/AlettediPollo_rettangolare.jpg
+    item-name: Alette di Pollo
+    item-description: Leggermente piccanti o piccanti (4 pezzi).
+    item-allergeni: Glutine, Uova, Latte
+    item-price: 5,9
+    class-allergeni:
+    class-price:
+    alt-image: Alette di Pollo
+  -
+    item-image-16-9: assets/img/prod/PatateFritte_rettangolare.jpg
+    item-name: Patate Fritte
+    item-description: Il più classico dei fritti.
+    item-allergeni: --
+    item-price: 4,5
+    class-allergeni:
+    class-price:
+    alt-image: Patate Fritte
+
+menu-hamburger:
+  -
+    item-image-16-9: assets/img/prod/Beerstrot_rettangolare.jpg
+    item-name: Beerstrot
+    item-description: Burger di manzo, cheddar, bacon croccante, cipolla caramellata, insalata, pomodori confit.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Beerstrot
+  -
+    item-image-16-9: assets/img/prod/CheeseburgerSpecial_rettangolare.jpg
+    item-name: Cheeseburger Special
+    item-description: Burger di manzo, cheddar, cipolle rosse in agrodolce, insalata, salsa burger.
+    item-allergeni: Glutine, Uova, Latte, Senape
+    item-price: Singolo 12,9 | Doppio 16,9
+    class-allergeni:
+    class-price:
+    alt-image: Cheeseburger Special
+  -
+    item-image-16-9: assets/img/prod/Diablo_rettangolare.jpg
+    item-name: Diablo
+    item-description: Burger di manzo, cheddar, bacon croccante, rucola, salsa piccante.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Diablo
+  -
+    item-image-16-9: assets/img/prod/Carbonara_rettangolare.jpg
+    item-name: Carbonara
+    item-description: Burger di manzo, guanciale, crema di uovo, pecorino romano e pepe.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Carbonara
+  -
+    item-image-16-9: assets/img/prod/CacioePepe_rettangolare.jpg
+    item-name: Cacio e Pepe
+    item-description: Burger di manzo, guanciale, crema pecorino e pepe.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Cacio e Pepe
+  -
+    item-image-16-9: assets/img/prod/California_rettangolare.jpg
+    item-name: California
+    item-description: Burger di manzo, cheddar, bacon croccante, cipolla rossa in agrodolce, salsa guacamole, salsa piccante.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: California
+  -
+    item-image-16-9: assets/img/prod/Autunno_rettangolare.jpg
+    item-name: Autunno
+    item-description: Burger di manzo, scamorza affumicata, speck croccante, crema di funghi.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Autunno
+  -
+    item-image-16-9: assets/img/prod/Inverno_rettangolare.jpg
+    item-name: Inverno
+    item-description: Burger di manzo, pecorino vallesina, speck croccante, erbe di campo strascinate
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Inverno
+  -
+    item-image-16-9: assets/img/prod/Primavera_rettangolare.jpg
+    item-name: Primavera
+    item-description: Burger di manzo, composta di feta, pomodorini e timo; insalata.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 12,9 | Doppio 16,9
+    class-allergeni:
+    class-price:
+    alt-image: Primavera
+  -
+    item-image-16-9: assets/img/prod/Estivo_rettangolare.jpg
+    item-name: Estivo
+    item-description: Burger di manzo, mozzarella fiordilatte, pomodoro fresco, maionese al basilico.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 12,9 | Doppio 16,9
+    class-allergeni:
+    class-price:
+    alt-image: Estivo
+  -
+    item-image-16-9: assets/img/prod/Norma_rettangolare.jpg
+    item-name: Norma
+    item-description: Burger di manzo, crema di melanzane e basilico, pomodori confit, ricotta salata.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Norma
+  -
+    item-image-16-9: assets/img/prod/Deciso_rettangolare.jpg
+    item-name: Deciso
+    item-description: Burger di manzo (180 grammi), gorgonzola, guanciale, pomodori confit
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Deciso
+  -
+    item-image-16-9: assets/img/prod/FaveePecorino_rettangolare.jpg
+    item-name: Fave e Pecorino
+    item-description: Burger di manzo, pecorino vallesina, guanciale, fave in porchetta.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: Singolo 13,4 | Doppio 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Fave e Pecorino
+  -
+    item-image-16-9: assets/img/prod/Mantovano_rettangolare.jpg
+    item-name: Mantovano
+    item-description: Burger di manzo, gorgonzola, speck croccante, crema di zucca, amaretto.
+    item-allergeni: Glutine, Uova, Latte, Frutta a Guscio
+    item-price: Singolo 12,9 | Doppio 16,9
+    class-allergeni:
+    class-price:
+    alt-image: Mantovano
+  # -
+  #   item-image-16-9: assets/img/prod/Pollo_rettangolare.jpg
+  #   item-name: Pollo
+  #   item-description: Burger di petto di pollo, fontina, cipolla caramellata, rucola, salsa allo yogurt.
+  #   item-allergeni: Glutine, Uova, Latte
+  #   item-price: Singolo 12,9 | Doppio 16,9
+  #   class-allergeni:
+  #   class-price:
+  #   alt-image: Pollo
+  -
+    item-image-16-9: assets/img/prod/PolloCroccante_rettangolare.jpg
+    item-name: Pollo Croccante
+    item-description: Cotoletta di petto di pollo super croccante e succosissima all'interno con panatura leggermente speziata, bacon croccante, cipolla in agrodolce, insalata, maionese, pane ciabatta.
+    item-allergeni: Glutine, Uova, Soia, Latte 
+    item-price: 13,4
+    class-allergeni: 
+    class-price:
+    alt-image: Pollo Croccante
+  -
+    item-image-16-9: assets/img/prod/PulledPork_rettangolare.jpg
+    item-name: Pulled Pork
+    item-description: Maiale sfilacciato, coleslaw, cetriolini, insalata, salsa piccante, pane ciabatta.
+    item-allergeni: Glutine, Uova, Latte, Senape, Anidride solforosa e solfiti
+    item-price: 13,4
+    class-allergeni:
+    class-price:
+    alt-image: Pulled Pork
+  -
+    item-image-16-9: assets/img/prod/MiniBurger_rettangolare.jpg
+    item-name: Mini Burger
+    item-description: Burger di manzo (100 grammi), cheddar. Servito ben cotto.
+    item-allergeni: Glutine, Uova, Latte
+    item-price: 9,4
+    class-allergeni:
+    class-price:
+    alt-image: Mini Burger
+
+
+menu-hamburger-pesce:
+  -
+    item-image-16-9: assets/img/prod/Salmone_rettangolare.jpg
+    item-name: Salmone
+    item-description: Burger di salmone, stracciatella, chips di topinambur.
+    item-allergeni: Glutine, Uova, Pesce, Latte
+    item-price: 13,9
+    class-allergeni:
+    class-price:
+    alt-image: Salmone
+  -
+    item-image-16-9: assets/img/prod/PesceSpada_rettangolare.jpg
+    item-name: Pesce Spada
+    item-description: Burger di pesce spada, insalata, pomodoro fresco, salsa tartara.
+    item-allergeni: Glutine, Uova, Pesce, Latte, Sedano, Senape
+    item-price: 13,4
+    class-allergeni:
+    class-price:
+    alt-image: Pesce Spada
+  -
+    item-image-16-9: assets/img/prod/Tonno_rettangolare.jpg
+    item-name: Tonno
+    item-description: Burger di tonno, insalata, pomodoro fresco, maionese, salsa teriyaki.
+    item-allergeni: Glutine, Uova, Pesce, Soia, Latte, Anidride solforosa e solfiti
+    item-price: 13,4
+    class-allergeni:
+    class-price:
+    alt-image: Tonno
+
+menu-hamburger-vegetariano:
+  -
+    item-image-16-9: assets/img/prod/VegetarianoMediterraneo_rettangolare.jpg
+    item-name: Vegetariano Mediterraneo
+    item-description: Burger di verdure (zucchine, peperoni, pomodori secchi, cipolle, melanzane), insalata, cipolla in agrodolce, maionese vegana.
+    item-allergeni: Glutine, Uova, Latte, Sedano 
+    item-price: 12,9
+    class-allergeni:
+    class-price:
+    alt-image: Vegetariano Mediterraneo
+  -
+    item-image-16-9: assets/img/prod/VegetarianoDelicato_rettangolare.jpg
+    item-name: Vegetariano Delicato
+    item-description: Burger di fiocchi d'avena e verdure (cipolle, cavolo riccio, spinaci, broccoli, scalogno), cipolla caramellata, insalata; composta di rape rosse, senape e miele.
+    item-allergeni: Glutine, Uova, Latte, Sedano, Senape
+    item-price: 12,9
+    class-allergeni:
+    class-price:
+    alt-image: Vegetariano Delicato
+
+menu-secondi:
+  -
+    item-image-16-9: assets/img/prod/Entrecote_rettangolare.jpg
+    item-name: Entrecôte
+    item-description: 250 grammi circa di tenerissima Entrecôte (controfiletto) di manzetta Red Hereford irlandese. Servita con insalata.
+    item-allergeni: --
+    item-price: 19
+    class-allergeni:
+    class-price:
+    alt-image: Entrecôte
+  -
+    item-image-16-9: assets/img/prod/Fish&Chips_rettangolare.jpg
+    item-name: Fish & Chips
+    item-description: Filetti di merluzzo panati e patate fritte. Serviti con salsa aioli.
+    item-allergeni: Glutine, Uova, Pesce 
+    item-price: 11,9
+    class-allergeni: 
+    class-price:
+    alt-image: Fish & Chips
+  # -
+  #   item-image-16-9: assets/img/prod/CotolettadiPollo_rettangolare.jpg
+  #   item-name: Cotoletta di Pollo
+  #   item-description: Cotoletta di petto di pollo super croccante e succosissima all'interno. Servita con patate fritte.
+  #   item-allergeni: Glutine, Soia
+  #   item-price: 12,9
+  #   class-allergeni: 
+  #   class-price:
+  #   alt-image: Cotoletta di Pollo
+  -
+    item-image-16-9: assets/img/prod/CostineBBQ_rettangolare.jpg
+    item-name: Costine BBQ
+    item-description: Costine di suino allevato allo stato brado in salsa bbq.
+    item-allergeni: Glutine, Pesce, Semi di Sesamo, Anidride solforosa e solfiti
+    item-price: 14,9
+    class-allergeni:
+    class-price:
+    alt-image: Costine BBQ
+  -
+    item-image-16-9: assets/img/prod/Arrosticini_rettangolare.jpg
+    item-name: Arrosticini
+    item-description: Arrosticini artigianali di pecora (12 pezzi).
+    item-allergeni: --
+    item-price: 17,9
+    class-allergeni:
+    class-price:
+    alt-image: Arrosticini
+  
+
+menu-dolce:
+  -
+    item-image-16-9: assets/img/prod/Cheesecake_rettangolare.jpg
+    item-name: Cheesecake
+    item-description: Cheesecake in stile new york. Squisitamente dolce, morbida e leggermente acidula.
+    item-allergeni: Glutine, Latte, Uova, Frutta a Guscio
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Cheesecake
+  -
+    item-image-16-9: assets/img/prod/Blondie_rettangolare.jpg
+    item-name: Blondie
+    item-description: Brownie con nocciole. Servito con crema al mascarpone.
+    item-allergeni: Frutta a Guscio, Latte, Uova
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Blondie
+  -
+    item-image-16-9: assets/img/prod/PannaCotta_rettangolare.jpg
+    item-name: Panna Cotta
+    item-description: Morbida e vellutata. Ricoperta a scelta con cioccolato o frutti di bosco.
+    item-allergeni: Latte
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Panna Cotta
+  -
+    item-image-16-9: assets/img/prod/Birramisu_rettangolare.jpg
+    item-name: Birramisù
+    item-description: Tiramisù con savoiardi inzuppati nella birra stout. Avvolgente e cremoso.
+    item-allergeni: Glutine, Latte, Uova
+    item-price: 6
+    class-allergeni:
+    class-price:
+    alt-image: Birramisù
+  -
+    item-image-16-9: assets/img/prod/Whoop_rettangolare.jpg
+    item-name: Whoop
+    item-description: Tre biscotti al cioccolato ripieni di delicata crema al burro di arachidi.
+    item-allergeni: Latte, Uova, Arachidi
+    item-price: 5,5
+    class-allergeni:
+    class-price:
+    alt-image: Whoop
+  -
+    item-image-16-9: assets/img/prod/Anicetti_rettangolare.jpg
+    item-name: Anicetti
+    item-description: Sei biscotti secchi all'anice.
+    item-allergeni: Glutine, Anidride solforosa e solfiti
+    item-price: 4,5
+    class-allergeni:
+    class-price:
+    alt-image: Anicetti
+  -
+    item-image-16-9: assets/img/prod/Crumble_rettangolare.jpg
+    item-name: Crumble
+    item-description: Crema chantilly su croccante crumble di farina di mais, cannella e scaglie di cioccolato fondente.
+    item-allergeni: Latte, Uova
+    item-price: 6
+    class-allergeni:
+    class-price:
+    alt-image: Crumble
+  # -
+  #   item-image-16-9: assets/img/prod/Cioccolatosa_rettangolare.jpg
+  #   item-name: Cioccolatosa
+  #   item-description: Doppio cremoso al cioccolato su pan di spagna al cioccolato.
+  #   item-allergeni: Glutine, Latte, Uova
+  #   item-price: 5
+  #   class-allergeni:
+  #   class-price:
+  #   alt-image: Cioccolatosa
+
+menu-bevanda:
+  -
+    item-name: Acqua
+    item-description: Mezzo Litro / Litro.
+    item-allergeni:
+    item-price: 1 | 1,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Coca Cola
+    item-description: Lattina 33cl.
+    item-allergeni:
+    item-price: 3
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Coca Cola Zero
+    item-description: Lattina 33cl.
+    item-allergeni: nessuno
+    item-price: 3
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Fanta
+    item-description: Lattina 33cl.
+    item-allergeni: nessuno
+    item-price: 3
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Acqua Tonica
+    item-description: Acqua Tonica premium 20cl.
+    item-allergeni: nessuno
+    item-price: 3
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Estathé Limone
+    item-description: Tè al limone 40cl.
+    item-allergeni: nessuno
+    item-price: 3,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Estathé Pesca
+    item-description: Tè alla pesca 40cl.
+    item-allergeni: nessuno
+    item-price: 3,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Succo alla Pesca
+    item-description: Succo alla pesca. 200ml.
+    item-allergeni: nessuno
+    item-price: 3,5
+    class-allergeni: hide
+    class-price:
+
+menu-caffe:
+  -
+    item-name: Caffè
+    item-description: Normale, Deca.
+    item-allergeni:
+    item-price: 1,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Caffè
+    item-description: Corretto, Macchiato.
+    item-price: 2
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Orzo
+    item-description: Tazza piccola o tazza grande.
+    item-allergeni:
+    item-price: 1,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Cappuccino
+    item-description: Normale, Deca.
+    item-allergeni:
+    item-price: 3
+    class-allergeni: hide
+    class-price:
+
+menu-birra-spina:
+  -
+    item-name: Helles
+    item-description: Bionda tedesca non amara 4,9%. Birrificio Mönchshof.
+    item-allergeni: Glutine
+    item-price: 4 | 6 | 12
+  -
+    item-name: Weisse
+    item-description: Weisse 5,4%. Birrificio Kapuziner.
+    item-allergeni: Glutine
+    item-price: 4 | 6,5 | 13
+  -
+    item-name: Italicum
+    item-description: Bionda fruttata senza Glutine 5,0%. Birrificio dei Castelli.
+    item-allergeni: --
+    item-price: 4 | 6 | 12
+  -
+    item-name: Bock
+    item-description: Rossa stile tedesco dolce 6,5%. Birrificio Forst.
+    item-allergeni: Glutine
+    item-price: 4 | 6 | 12
+  # -
+  #   item-name: Palmares
+  #   item-description: Red Ale 5,6%. Birrificio dei Castelli.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Ape Regina
+  #   item-description: Blonde Ale al miele 6,9%. Birrificio MC-77.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Mazzu de Fiuri
+  #   item-description: IPA 6,5%. Birrificio Mukkeller.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  -
+    item-name: Brevis Furor
+    item-description: IPA 6,3%. Birrificio dei Castelli.
+    item-allergeni: Glutine
+    item-price: 4 | 6,5 | 13
+  -
+    item-name: Extrema Ratio
+    item-description: Doppia IPA 7,4%. Birrificio dei Castelli.
+    item-allergeni: Glutine
+    item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Hattori Hanzo
+  #   item-description: Doppia IPA 8,3%. Birrificio Mukkeller.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Breaking Hops
+  #   item-description: Doppia IPA 7,2%. Birrificio MC-77.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Billycock
+  #   item-description: Doppia New England IPA 7,8%. Birrificio MC-77.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+  # -
+  #   item-name: Velvet Suit
+  #   item-description: New England IPA 6,5%. Birrificio MC-77.
+  #   item-allergeni: Glutine
+  #   item-price: 4 | 6,5 | 13
+
+
+menu-birra-bottiglia:
+  -
+    item-name: Hell 50cl
+    item-description: Birrificio Mönchshof. Bionda tedesca non amara 4,9%. Birra corposa con una luppolatura eccezionalmente fine, perfetta per ogni occasione.
+    item-allergeni: Glutine
+    item-price: 6
+  -
+    item-name: Pilsner 50cl
+    item-description: Birrificio Flensburger. Pils tedesca 4,8%. Gusto amaro e profumo di malto e luppolo. Finale secco ed amaro che rinfresca il palato.
+    item-allergeni: Glutine
+    item-price: 6
+  -
+    item-name: Weisse 50cl
+    item-description: Birrificio Kapuziner. Weisse 5,4%. Gusto equilibrato, con dolci sapori di malto, frutta e le immancabili note speziate.
+    item-price: 6,5
+  -
+    item-name: Blanche 33cl
+    item-description: Birrificio Cornelissen. Blanche Belga 5%. Il frumento conferisce alla birra un sapore leggermente amaro, il coriandolo un tocco piccante, la buccia di limone il fruttato.
+    item-allergeni: Glutine
+    item-price: 5,5
+  -
+    item-name: Natural Radler 50cl
+    item-description: Birrificio Mönchshof. Radler 2,5%. Rinfrescante e fruttata con succo di limone naturale.
+    item-allergeni: Glutine
+    item-price: 6
+  -
+    item-name: Forst Zero 33cl
+    item-description: Birrificio Forst. Zero alcohol dal sapore sorprendente.
+    item-allergeni: Glutine
+    item-price: 4,5
+  -
+    item-name: Zona Mugnetti 50cl
+    item-description: Birrificio Mukkeller. Belgian Ale 6%. Colore arancio chiaro, gusto morbido con sentori di arance e limoni.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Bockbier 50cl
+    item-description: Birrificio Mönchshof. Rossa tedesca 6,9%. Birra corposa, si fa apprezzare grazie al suo bouquet leggermente maltato, alla sua schiuma cremosa e al suo gusto speziato e aromatico.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Red Ale 50cl
+    item-description: Birrificio Brewmaster. Rossa irlandese 4,2%. Tratti molto decisi di malto e luppolo con un finale caramellato.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Hattori Hanzo 50cl
+    item-description: Birrificio Mukkeller. Doppia IPA 8,2%. Birra bionda dall'amaro pulito e persistente. Crea dipendenza.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Tulio 50cl
+    item-description: Rye IPA 6,5%. Birrificio Mukkeller.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Variante IPA 50cl
+    item-description: Birrificio Mukkeller. IPA 6,6%. Birra con un buon corpo, succosa con un amaro deciso. In bocca frutta gialla matura, agrumi e frutta tropicale.
+    item-allergeni: Glutine
+    item-price: 6,5
+  -
+    item-name: Mazzu de Fiuri 50cl
+    item-description: Birrificio Mukkeller. IPA 6%. Birra bionda dall'amaro persistente e speziato.
+    item-allergeni: Glutine
+    item-price: 6,5
+  # -
+  #   item-name: Ridopoco 50cl
+  #   item-description: Birrificio Mukkeller. America pale ale 6,2%. Corpo leggero, massiccia luppolatura.
+  #   item-allergeni: Glutine
+  #   item-price: 6,5
+  -
+    item-name: Calix Niger 33cl
+    item-description: Birrificio dei Castelli. Stout 6,7%. Color ebano scuro, schiuma compatta dai toni nocciola. Al naso elegante sentore di caffè e note di quercia.
+    item-allergeni: Glutine
+    item-price: 6
+  -
+    item-name: Black Stout 50cl
+    item-description: Birrificio Brewmaster. Stout irlandese 4,2%. Stout dal gusto deciso, cremoso e delicato.
+    item-allergeni: Glutine
+    item-price: 6,5
+  # -
+  #   item-name: Guastafeste 33cl
+  #   item-description: Birrificio Mukkeller. Belgian Strong Ale 10%. Ambrata con malti aromatici che le conferiscono sapori fruttati. Birra pensata per il Natale.
+  #   item-allergeni: Glutine
+  #   item-price: 6
+  # -
+  #   item-name: Mukkamannara 33cl
+  #   item-description: Birrificio Mukkeller. Belgian Strong Ale 9,3%. Bruna con aroma e sapore di malto, caramello, uva passa, frutti rossi secchi. Una birra ricca, forte, complessa.
+  #   item-allergeni: Glutine
+  #   item-price: 6
+
+menu-vino-caraffa:
+  -
+    item-name: Rosso Piceno doc
+    item-description: Vino Biologico. Cantina Collevite.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: Quarto 4 | Litro 11,5
+    class-allergeni:
+    class-price:
+  -
+    item-name: Verdicchio Matelica doc
+    item-description: Cantina Belisario.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: Quarto 4 | Litro 11,5
+    class-allergeni:
+    class-price:
+
+menu-vino:
+  -
+    item-name: Rosso Conero doc - Serrano
+    item-description: Cantina Umani Ronchi. Colore rosso rubino con riflessi violacei. Profumo pulito di visciola matura. Gran polpa e gran rotondità di sapore, uniti ad una buona struttura garantiscono una piacevole bevibilità.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 15,5 | 4
+    class-allergeni:
+    class-price:
+  # -
+  #   item-name: Rosso Conero doc - San Lorenzo
+  #   item-description: Cantina Umani Ronchi. Colore rosso rubino con riflessi granata. Profumi di frutta rossa e spezie dolci, gusto ricco di polpa e freschezza, contraddistinto da tannini ben levigati e da un persistente e lungo finale fruttato.
+  #   item-allergeni: Anidride solforosa e solfiti
+  #   item-price: 19
+  #   class-allergeni:
+  #   class-price:
+  -
+    item-name: Lacrima Morro Alba doc - Rubico
+    item-description: Cantina Marotti Campi. Rosso vivace con riflessi porpora. Ha un aroma gradevole e fruttato con richiami discreti ai fiori di ciliegio e alla viola. Il gusto è morbido, vellutato e sapido.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 16 | 4
+    class-allergeni:
+    class-price:
+  -
+    item-name: Syrah Cortona DOC - Achelo
+    item-description: Cantina La Braccesca - Antinori. Colore rosso rubino. Al naso regala profumi di frutti di bosco, sentori floreali di violetta e note di vaniglia, liquirizia e spezie scure. L'assaggio è morbido e avvolgente, con un piacevole finale balsamico e speziato.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 23
+    class-allergeni:
+    class-price:
+  -
+    item-name: Chianti Superiore DOCG - Santa Cristina
+    item-description: Cantina Santa Cristina. Colore rosso rubino con riflessi violacei. Al naso è ricco, con note fruttate di marasca, erbe aromatiche e sensazioni balsamiche. Al palato è morbido, avvolgente, con tannini vellutati e un finale lungo e sapido.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 18 | 4,5
+    class-allergeni:
+    class-price:
+  -
+    item-name: Verdicchio doc - Villa Bianchi
+    item-description: Cantina Umani Ronchi. Colore giallo paglierino brillante, con riflessi verdognoli. Al gusto esprime una piacevole struttura basata su note sapide e fresche, in cui risalta un finale con tipico sentore di mandorla.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 15,5 | 4
+    class-allergeni:
+    class-price:
+  -
+    item-name: Verdicchio Superiore Biologico doc - Casal di Serra
+    item-description: Cantina Umani Ronchi. Colore giallo paglierino. Profumi intensi di fiori di campo, aromi di frutta a polpa gialla. Ricco e vellutato, con buona dose di freschezza e sapidità che bilancia l’eccellente morbidezza. Finale asciutto, persistente e fruttato.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 19
+    class-allergeni:
+    class-price:
+  -
+    item-name: Gewurztraminer doc
+    item-description: Cantina H.Lun. Un inconfondibile bouquet speziato dal sentore di rose e frutta secca, una corposità generosa e un gusto pieno e intenso caratterizzano questo tipico vino bianco dell'Alto Adige.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 22
+    class-allergeni:
+    class-price:
+  -
+    item-name: Ribolla Gialla igt
+    item-description: Cantina Branko. Al naso ricorda un bouquet di fiori bianchi. Al palato si evidenzia una giusta sapidità accompagnata dalla tipica acidità del vitigno.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 22 | 5
+    class-allergeni:
+    class-price:
+  -
+    item-name: Rosato igt biologico - Centovie
+    item-description: Cantina Umani Ronchi. Colore rosa quarzo. Al naso profuma di giacinto e di rosa, di lampone e melograno, di rosmarino e caramella di liquirizia. In bocca ha acidità agrumata, è vivo e sapido.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 18 | 4
+    class-allergeni:
+    class-price:
+  -
+    item-name: Franciacorta docg - Cuvée Royale
+    item-description: Cantina Marchesi Antinori. Colore giallo scarico, spuma cremosa con perlage fine e persistente. A livello aromatico si colgono note di pesca a polpa bianca, crosta di pane e lieviti. Notevole equilibrio e vivacità tipica del Brut.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 33
+    class-allergeni:
+    class-price:
+  -
+    item-name: Prosecco docg - Treser
+    item-description: Cantina Serre di Pederiva. Brut. All’aspetto è giallo paglierino scarico con riflessi verdognoli, con spuma brillante e perlage fine e persistente. Frutta fresca e fiori estivi ne completano il profumo secco e croccante.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 18 | 4
+    class-allergeni:
+    class-price:
+  -
+    item-name: Spumante Dolce
+    item-description: Cantina Serre di Pederiva. Colore giallo paglierino scarico, spuma sottile con perlage fine e persistente. Esprime gentili sentori floreali e fruttati, al palato si presenta gradevolmente amabile e vellutato.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 14
+    class-allergeni:
+    class-price:
+
+menu-amaro:
+  -
+    item-name: Amari
+    item-description: Sibilla, Amaro dell'Erborista, Varnelli, Amaro del Capo, Sambuca Molinari, Fernet Branca, Brancamenta, Montenegro, Anima Nera.
+    item-allergeni:
+    item-price: 4
+    class-allergeni: hide
+    class-price:
+  # -
+  #   item-name: Varnelli
+  #   item-description:
+  #   item-allergeni:
+  #   item-price: 3,5
+  #   class-allergeni: hide
+  #   class-price:
+  -
+    item-name: Grappa Bianca
+    item-description: Bonaventura Maschio 903.
+    item-allergeni:
+    item-price: 3,5
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Grappa Barricata
+    item-description: Pilzer grappa invecchiata 3 anni.
+    item-allergeni:
+    item-price: 4
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Vodka
+    item-description: Imperial Collection Gold.
+    item-allergeni:
+    item-price: 4
+    class-allergeni: hide
+    class-price:
+
+menu-rhum:
+  # -
+  #   item-name: Centenario 9 anni
+  #   item-description: Costa Rica 40%. Profumo di vaniglia, cuoio, cioccolato, sciroppo d'acero e menta. Al palato sentori di cioccolato, pelle, miele e menta piperita.
+  #   item-allergeni:
+  #   item-price: 6
+  #   class-allergeni: hide
+  #   class-price:
+  -
+    item-name: Don Papa oltre 7 anni
+    item-description: Filippine 40%. Profumo di caramello e mou. Al palato ripropone una notevole dolcezza ben bilanciata da un mix di arancia candita e persistente nota citrica.
+    item-description-short:
+    item-allergeni:
+    item-price: 7
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Du Perou 10 anni
+    item-description: Perù 45%. Profumo di frutta fresca albicocche, pesche e pere, seguito da legno, spezie e tabacco. Al palato è fedele a ciò che il naso ha annunciato.
+    item-allergeni:
+    item-price: 8
+    class-allergeni: hide
+    class-price:
+
+menu-wiskey:
+  # -
+  #   item-name: Arran
+  #   item-description: Scotch whisky Single Malt 43%. Invecchiato per circa 7 anni in botti di primo utilizzo ex-bourbon e imbottigliato col suo colore naturale. Aromi dolci e freschi di agrumi e vaniglia. Gusto fresco di mela e agrumi.
+  #   item-allergeni:
+  #   item-price: 8
+  #   class-allergeni: hide
+  #   class-price:
+  -
+    item-name: Teeling
+    item-description: Irlandese single malt 46%. Note di vaniglia e spezie con dolci sentori di rhum.
+    item-allergeni:
+    item-price: 8
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Big Peat
+    item-description: Scozzese blend 46%. Fresco, pulito con aromi di torba piccante con note di cioccolato, caffè e mandorle.
+    item-allergeni:
+    item-price: 8
+    class-allergeni: hide
+    class-price:
+
+menu-drinks:
+  -
+    item-name: Spritz
+    item-description: Aperol o Campari.
+    item-allergeni: Anidride solforosa e solfiti
+    item-price: 6
+    class-allergeni:
+    class-price:
+  -
+    item-name: Gin Tonic Ginpilz
+    item-description: Gin con chiaro profumo e sapore di ginepro. Servito con acqua tonica premium.
+    item-allergeni:
+    item-price: 8
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Gin Tonic Silverback
+    item-description: London Dry Gin con profumi agrumati e floreali; speziato, erbaceo con note dolci di arancia, miele e citronella e sentori di ginepro. Servito con acqua tonica premium.
+    item-allergeni:
+    item-price: 8
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Gin Tonic Insulae
+    item-description: Gin Siciliano fresco e pulito. Servito con acqua tonica premium.
+    item-allergeni:
+    item-price: 9
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Americano
+    item-description: Vermut rosso, bitter Campari, soda.
+    item-allergeni:
+    item-price: 7
+    class-allergeni: hide
+    class-price:
+  -
+    item-name: Negroni
+    item-description: Vermut rosso, bitter Campari, gin Silverback.
+    item-allergeni:
+    item-price: 8.5
+    class-allergeni: hide
+    class-price:

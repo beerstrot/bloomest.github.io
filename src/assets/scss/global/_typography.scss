@@ -1,0 +1,63 @@
+.first-paragraph {
+    margin-top: 4rem;
+    @include breakpoint(small only) {
+       margin-top: 3rem;
+    }
+}
+.first-paragraph-no-hero {
+    margin-top: 3rem;
+}
+
+.last-paragraph {
+    padding-bottom: 4rem;
+    @include breakpoint(small only) {
+    padding-bottom: 5rem;
+    }
+}
+
+//tipography
+h1 {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 1.4rem;
+     @include breakpoint(small only) {
+       font-size: 2.4rem;
+       margin-bottom: 1.2rem;
+       margin-top: 1.5rem;
+    }
+}
+
+h2 {
+    font-weight: 600;
+    margin-top: 0;
+    @include breakpoint(small only) {
+       font-size: 1.875rem;
+       margin-bottom: 0.5rem;
+
+    }
+}
+
+h3 {
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+a.highlight{
+    box-shadow: inset 0 -1px 0 rgba($anchor-color,0.5), 0 1px 0 rgba($anchor-color,0.5);
+}
+
+a.highlight:hover {
+    box-shadow: inset 0 -1px 0 rgba($anchor-color-hover,0.5), 0 1px 0 rgba($anchor-color-hover,0.5);
+}
+
+
+.input-group-label {
+    padding-right: 1px;
+    padding-left: 1px;
+    @include breakpoint(small only) {
+       padding: 0px;
+    }
+}
