@@ -18,9 +18,6 @@ $(document).foundation();
 
 
 
-
-
-
 import Splide from '@splidejs/splide';
 import { Video } from '@splidejs/splide-extension-video';
 import('./navbar');
